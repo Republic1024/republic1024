@@ -2,11 +2,7 @@
 
 ### Welcome to my GitHub profile! 🌟
 
-#### 🎓 **Education**
-
-##### 🏫Colleage: Ningbo Technology University
-
-##### 💻Major: Computer Science and Technology
+#### 💻Major: CS
 
 
 
